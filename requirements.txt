@@ -1,1 +1,6 @@
 gradio
+tensorflow
+pandas
+numpy
+requests
+scikit-learn
